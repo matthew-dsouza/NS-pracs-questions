@@ -1,3 +1,5 @@
+# -in sender put recievers ip address
+
 import socket
 import tqdm
 import os
