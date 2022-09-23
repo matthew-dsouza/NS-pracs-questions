@@ -1,4 +1,4 @@
-# -in reciever put recievers ip addr 
+# -in reciever put recievers ip address
 
 import socket
 import tqdm
