@@ -10,7 +10,7 @@ host = "169.254.171.30"
 # the port, let's use 5001
 port = 5004
 # the name of file we want to send, make sure it exists
-filename = "eremika3.jpeg"
+filename = "data.csv"
 # get the file size
 filesize = os.path.getsize(filename)
 
